@@ -4,9 +4,9 @@
 <text>
 
 ## Table of Contents
-[Features](#Features),
-[Installation](#installation),
-[usage](#usage),
+1. [Features](#Features),
+2. [Installation](#installation),
+3. [usage](#usage),
 [Credits](#Credits)
 [Tests](#Tests)
 [Contributing](#Contributing)
