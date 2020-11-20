@@ -11,8 +11,8 @@
 [Tests](#Tests)
 [Contributing](#Contributing)
 [Questions](#Questions)
-[Link to deployed application](#Link to deployed applicatoin)
-[Link to Github repo](#Link to Github repo)
+[Link to deployed application](#link-to-deployed-applicatoin)
+[Link to Github repo](#link-to-github-repo)
 [License](#License)
 
 ## Features
