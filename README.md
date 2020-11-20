@@ -1,5 +1,8 @@
 # Project Title
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Description
 asdfsdff
 
@@ -39,3 +42,5 @@ asdfasfsfasfsafsa
 ## Link to Github repo
 
 ## License
+Licensed under the [MIT](LICENSE.txt) license.
+
